@@ -1,0 +1,16 @@
+{
+  "app_title": "Tower 33 Network Check",
+  "test_duration_sec": 30,
+  "ping_interval_sec": 0.1,
+  "include_gateway": true,
+  "gateway_label": "Local Gateway",
+  "endpoints": [
+    ["Google DNS", "8.8.8.8"],
+    ["Cogent Looking Glass - Los Angeles", "agr21.lax01.atlas.cogentco.com"],
+    ["Tower33 Data Center", "vpn.tower33vfx.com"]
+  ],
+  "thresholds": {
+    "green": {"loss_pct_lt": 0.2, "avg_ms_lt": 50.0, "jitter_ms_lt": 5.0},
+    "yellow": {"loss_pct_lt": 1.0, "avg_ms_lt": 120.0, "jitter_ms_lt": 15.0}
+  }
+}
