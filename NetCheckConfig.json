@@ -2,6 +2,7 @@
   "app_title": "Tower 33 Network Check",
   "test_duration_sec": 30,
   "ping_interval_sec": 0.25,
+  "warmup_sec": 4.0,
   "include_gateway": true,
   "gateway_label": "Local Gateway",
   "endpoints": [
