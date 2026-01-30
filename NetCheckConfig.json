@@ -7,7 +7,7 @@
   "gateway_label": "Local Gateway",
   "endpoints": [
     ["Google DNS", "8.8.8.8"],
-    ["Cogent Looking Glass - Los Angeles", "agr21.lax01.atlas.cogentco.com"],
+    ["Cogent Backbone - Los Angeles", "38.88.179.170"],
     ["Tower33 Data Center", "vpn.tower33vfx.com"]
   ],
   "thresholds": {
