@@ -8,6 +8,7 @@
   "endpoints": [
     ["Google DNS", "8.8.8.8"],
     ["Cogent Backbone - Los Angeles", "ccr41.lax01.atlas.cogentco.com"],
+    ["Zayo Backbone - Los Angeles", "er2.lax10.us.zip.zayo.com"],
     ["Tower33 Data Center", "vpn.tower33vfx.com"]
   ],
   "thresholds": {
