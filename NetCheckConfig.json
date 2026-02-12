@@ -7,8 +7,9 @@
   "gateway_label": "Local Gateway",
   "endpoints": [
     ["Google DNS", "8.8.8.8"],
-    ["Cogent Backbone - Los Angeles", "ccr41.lax01.atlas.cogentco.com"],
+    ["Cogent Backbone - Los Angeles", "ccr42.lax01.atlas.cogentco.com"],
     ["Zayo Backbone - Los Angeles", "er2.lax10.us.zip.zayo.com"],
+    ["Lumen Backbone - Los Angeles", "ae1.3501.edge7.LosAngeles1.net.lumen.tech"],
     ["Tower33 Data Center", "vpn.tower33vfx.com"]
   ],
   "thresholds": {
